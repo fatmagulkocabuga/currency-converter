@@ -1,2 +1,2 @@
 # currency-converter
-html dosyaları gelecek
+html js dosyaları gelecek
